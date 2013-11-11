@@ -1,38 +1,20 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Sumendi.github.io by Sumendi</title>
+---
+layout: site
+---
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1>Sumendi</h1>
-        <p>Sumendi's web</p>
+{% include home_header.html %}
 
-
-        <p class="view"><a href="https://github.com/Sumendi">Aupa Sumendi!</a></p>
-
-      </header>
-      <section>
-        <h3>
-<a name="sumendi" class="anchor" href="#sumendi"><span class="octicon octicon-link"></span></a>Sumendi</h3>
-
-<p>Aupa Sumendi!</p>
-      </section>
-      <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
-    <script src="javascripts/scale.fix.js"></script>
-
-  </body>
-</html>
+<div id="content">
+  {% include what.html %}
+  {% include menu_opening_1.html %}
+  {% comment %}
+    {% include title_page.html title="Title" caption="thisif ji adojo jo" %}
+  {% endcomment %}
+  {% include why.html %}
+  {% include where.html %}
+  {% include make_a_reservation.html %}
+  {% comment %}
+    {% include who.html %}
+  {% endcomment %}
+  {% include testimonials.html %}
+</div>
