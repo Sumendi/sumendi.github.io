@@ -15,7 +15,9 @@
   <!--Shortcut icon-->
   <link rel="shortcut icon" href="FIX" />
   <!-- Title -->
-  <title>Sumendi</title>
+  <title>
+    {% if page.title %} {{ page.title }} &ndash; {{ site.title }} {% else %} {{ site.title }} {% endif %}
+  </title>
   <!-- RSS & Pingbacks -->
   <meta property='og:site_name' content='Sumendi'/>
   <meta property='og:url' content='http://sumendi.is'/>
@@ -24,12 +26,12 @@
 
   <link rel='stylesheet' id='chariot-font-css'  href='http://fonts.googleapis.com/css?family=Roboto+Slab%3A400%2C100%2C300%2C700&#038;ver=3.6.1' type='text/css' media='all' />
 
-  <link rel="stylesheet" href="{{base}}all.css" type="text/css" />
+  <link rel="stylesheet" href="{{site.baseurl}}all.css" type="text/css" />
 
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
   <script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
   <script type='text/javascript' src='/js/modernizr.js?ver=2.5.3'></script>
-  <script src="{{base}}all.js"></script>
+  <script src="{{site.baseurl}}all.js"></script>
 
 </head>
 

@@ -1,3 +1,4 @@
-safe: true
+markdown: kramdown
 lsi: false
 pygments: true
+title: Sumendi

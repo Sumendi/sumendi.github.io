@@ -3679,7 +3679,7 @@ footer {
 .fancybox-title-inside-wrap {
 	font-weight: 400;
 	font-size: 18px;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
     line-height: 1.5;
 	padding: 14px 20px;
 }
