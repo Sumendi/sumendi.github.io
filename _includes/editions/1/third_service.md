@@ -28,7 +28,7 @@
             And we know that is incredibly difficult. In this last service, we struggled in the kitchen to finish the dessert for 15 guests and they waited for more that we'd like to admit.
           </p>
           <p>
-            Fortunately it was at the end of the dinner and all our guests were incredibly nice people that, being unknown to each other many of them, had a very good time chatting and eating together for a night.
+            Fortunately it was at the end of the dinner and all our guests were incredibly nice people that being many of them unknown to each other, had a very good time chatting and eating together for a night.
           </p>
           <p>What could be better than that? To be an invisible enabler that helps to create memories &amp; happyness. That is what we wanted Sumendi to be… and we got it. <span class="highlight-text">Thanks everybody for making it possible.</span></p>
       </div>
