@@ -24,8 +24,7 @@
   </title>
 
   <meta property='og:site_name' content='Sumendi'/>
-  <meta property='og:url' content='http://sumendi.is'/>
-
+  <meta property='og:url' content="http://sumendi.is{{ page.url | replace:'index.html','' }}"/>
   {% if page.og_image %}
     <meta property='og:image' content='{{page.og_image}}'/>
   {% else %}
