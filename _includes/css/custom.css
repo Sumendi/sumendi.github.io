@@ -1,0 +1,16 @@
+header #logo a {line-height: 70px; }
+header {height: 70px; }
+#menu ul li {line-height: 70px; }
+#mobile-nav {height: 70px; }
+
+.orange{
+  background-color: #E96045;
+}
+.orange a{
+  color: #303440;
+}
+
+#credits a{
+  text-decoration: underline;
+  color:#303440;
+}

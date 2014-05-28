@@ -144,7 +144,7 @@ a img {
 }
 
 strong {
-    font-weight: 600;
+    font-weight: 700;
 }
 
 p {
@@ -441,6 +441,10 @@ h6 {
 
 .white > * {
 	color: #FFFFFF;
+}
+
+.thinner > * {
+    font-weight: 100;
 }
 
 .lighter > * {
