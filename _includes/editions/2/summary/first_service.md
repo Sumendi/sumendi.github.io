@@ -26,7 +26,7 @@
           </div>
           <div class="col-md-6">
             <p>
-              We were very lucky again, and we had incredibly nice guests again. Luciano (and his companion) and Xavier are becoming regulars of Sumendi (something we are really grateful for) and we added two new amazing icelanders: <strong>Sígriður</strong> and <strong>Svanhildur</strong>.
+              We were very lucky again, and we had incredibly nice guests again. Luciano and Xavier are becoming regulars of Sumendi (something we are really grateful for) and we added three new amazing friends: <strong>Gerður</strong>, <strong>Sígriður</strong> and <strong>Svanhildur</strong>.
             </p>
             <p>
               Another detail that is becoming a tradition at Sumendi is the service's timelapse. We set up a camera recording pictures every few seconds, generating in the end a timelapse like the one you can see next to this paragraph: a <strong>four minutes fast summary of what is to eat at Sumendi</strong>.
