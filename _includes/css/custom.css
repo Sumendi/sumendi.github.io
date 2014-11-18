@@ -14,3 +14,6 @@ header {height: 70px; }
   text-decoration: underline;
   color:#303440;
 }
+#menu ul li:hover ul, #menu ul li.sfHover ul {
+  top: 70px;
+}
