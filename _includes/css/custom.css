@@ -17,3 +17,49 @@ header {height: 70px; }
 #menu ul li:hover ul, #menu ul li.sfHover ul {
   top: 70px;
 }
+
+#in_the_media .media_logo_container {
+  height: 100px;
+  position: relative;
+}
+
+#in_the_media .media_logo {
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+}
+
+
+@media (max-width: 320px) {
+  h1 {
+      font-size: 42px;
+  }
+
+  h2 {
+      font-size: 30px;
+  }
+
+  h3 {
+      font-size: 20px;
+  }
+
+  h4 {
+      font-size: 16px;
+  }
+
+  h5 {
+      font-size: 14px;
+  }
+
+  h6 {
+      font-size: 14px;
+  }
+
+  #title-page .page-caption,
+  #title-page .entry-meta.entry-header,
+  #image-static .page-caption,
+  #image-static .entry-meta.entry-header {
+    font-size: 20px;
+  }
+}
+
