@@ -505,7 +505,7 @@ $('audio, video').each(function(){
     // initial volume when the player starts
     startVolume: 0.8,
     // path to Flash and Silverlight plugins
-    pluginPath: theme_objects.base + '/_include/js/mediaelement/',
+    pluginPath: '/js/mediaelement/',
     // name of flash file
     flashName: 'flashmediaelement.swf',
     // name of silverlight file
@@ -516,7 +516,7 @@ $('audio, video').each(function(){
     enableAutosize: true,
     // the order of controls you want on the control bar (and other plugins below)
     // Hide controls when playing and mouse is not over the video
-    alwaysShowControls: false,
+    alwaysShowControls: true,
     // force iPad's native controls
     iPadUseNativeControls: false,
     // force iPhone's native controls
