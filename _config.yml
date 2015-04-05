@@ -1,4 +1,4 @@
 markdown: kramdown
 lsi: false
-pygments: true
+highlighter: pygments
 title: Sumendi
